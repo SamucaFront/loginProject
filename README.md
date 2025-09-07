@@ -1,4 +1,4 @@
-#Login – Tema Arcane  
+# Login – Tema Arcane  
 
 Este projeto é uma tela de **login responsiva** inspirada no universo da série *Arcane*.  
 As cores foram extraídas diretamente de uma imagem de referência, garantindo fidelidade ao tema.  
@@ -9,7 +9,7 @@ As cores foram extraídas diretamente de uma imagem de referência, garantindo f
 --cor2: #72384C; 
 --cor3: #4B1F2C; 
 
-## 📱 Responsividade  
+## Responsividade  
 
 A interface se adapta automaticamente a diferentes tamanhos de tela:  
 
@@ -18,4 +18,4 @@ A interface se adapta automaticamente a diferentes tamanhos de tela:
 - Grandes (desktop)  
 
     Acesse o projeto  
-👉 [Clique aqui para visualizar](https://samucafront.github.io/loginProject/)  
+    [Clique aqui para visualizar](https://samucafront.github.io/loginProject/)  
